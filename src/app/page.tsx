@@ -1,5 +1,4 @@
-import Image from "next/image";
-import HeaderPage from "./component/header";
+
 import HomePage from "./Home/page";
 import About from "./About/page";
 import ProductPage from "./Product/page";
