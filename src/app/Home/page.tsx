@@ -20,7 +20,7 @@ const HomePage = () => {
       </p>
       <div className="">
         <button className=" text-black bg-amber-600 rounded-2xl p-4  px-3 hover:relative top-2 hover:shadow-xl hover:shadow-amber-600">
-        Discover Now
+        Contact US
         </button>
         
       </div>
